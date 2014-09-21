@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            edgurgel
+tagline:          "edgurgel's blog"
+description:      'a developer'
+url:              http://gurgel.me
+baseurl:          /
+
+author:
+  name:           'Eduardo Gurgel'
+  url:            https://github.com/edgurgel
+
+paginate:         3
